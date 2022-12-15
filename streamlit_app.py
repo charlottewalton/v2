@@ -1,10 +1,10 @@
 import streamlit as st
 
 # giving this thing a title - can only have one of these
-st.title("welcome to the little project")
+st.title("welcome to the image auditing project")
 
 # providing more context
-st.write("this is the prototype little project")
+st.write("this is the prototype project")
 
 
 # premade grid making fn
